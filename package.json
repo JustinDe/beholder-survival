@@ -1,6 +1,6 @@
 {
 	"name": "beholder-survival",
-	"version": "0.1,0",
+	"version": "0.0.1",
 	"description": "Survival is in the eye of the Beholder",
 	"scripts": {
 		"start": "parcel src/index.html -p 8000",
