@@ -1,6 +1,6 @@
 # Beholder Survival
 
-## Survival is in the eye of the Beholder
+### Survival is in the 👁 of the 🐝holder
 
 ### Dev Setup
 * Install yarn
